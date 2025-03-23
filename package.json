@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "yaxingson <3228891558@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "eslint": "^9.23.0",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.9"
+  }
 }
