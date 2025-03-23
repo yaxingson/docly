@@ -1,6 +1,6 @@
 {
-  "name": "jsdocling",
-  "version": "0.0.1",
+  "name": "folio.js",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
