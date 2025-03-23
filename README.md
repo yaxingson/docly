@@ -1,4 +1,4 @@
-# jsdocling
+# folio.js
 
 ## Features
 
