@@ -2,6 +2,9 @@
 
 ## Features
 
+- Supports a variety of document formats, including PDF, DOC, PPT, XLS and TXT.
+
+
 ## Get Started
 
 ### Install
